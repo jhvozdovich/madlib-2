@@ -1,4 +1,4 @@
-# _Madlib FOrm_
+# _Madlib Form_
 
 #### _Practice with forms in jQuery_
 
@@ -6,7 +6,7 @@
 
 ## Description
 
-_An exercise with forms, using madlibs as a theme.
+_An exercise with forms, using madlibs as a theme. Updated to inlude looping March 30,2020_
 
 ## Setup/Installation Requirements
 
